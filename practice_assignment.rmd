@@ -47,7 +47,7 @@ Alternatively, you could look at the dimensions of the data.frame:
 dim(andy)
 ```
 
-This tells us that we 30 rows of data in 4 columns.  There are some other commands we might want to run to get a feel for a new data file, `str()`, `summary()`, and `names()`.
+This tells us that we have 30 rows of data in 4 columns.  There are some other commands we might want to run to get a feel for a new data file, `str()`, `summary()`, and `names()`.
 
 ```{r}
 str(andy)
